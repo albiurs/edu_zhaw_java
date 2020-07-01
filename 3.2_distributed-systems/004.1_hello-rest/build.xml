@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. --><project basedir="." default="build" name="MAS I VSY LE04 HelloREST">
+    <property environment="env"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.7"/>
+    <property name="source" value="1.7"/>
+    <path id="MAS I VSY LE04 HelloREST.classpath">
+        <pathelement location="bin"/>
+        <pathelement location="lib/aopalliance-repackaged-2.4.0-b25.jar"/>
+        <pathelement location="lib/asm-debug-all-5.0.3.jar"/>
+        <pathelement location="lib/hk2-api-2.4.0-b25.jar"/>
+        <pathelement location="lib/hk2-locator-2.4.0-b25.jar"/>
+        <pathelement location="lib/hk2-utils-2.4.0-b25.jar"/>
+        <pathelement location="lib/javassist-3.18.1-GA.jar"/>
+        <pathelement location="lib/javax.annotation-api-1.2.jar"/>
+        <pathelement location="lib/javax.inject-2.4.0-b25.jar"/>
+        <pathelement location="lib/javax.servlet-api-3.0.1.jar"/>
+        <pathelement location="lib/javax.ws.rs-api-2.0.1.jar"/>
+        <pathelement location="lib/jaxb-api-2.2.7.jar"/>
+        <pathelement location="lib/jersey-client.jar"/>
+        <pathelement location="lib/jersey-common.jar"/>
+        <pathelement location="lib/jersey-container-jdk-http-2.20.jar"/>
+        <pathelement location="lib/jersey-container-servlet-core.jar"/>
+        <pathelement location="lib/jersey-container-servlet.jar"/>
+        <pathelement location="lib/jersey-guava-2.19.jar"/>
+        <pathelement location="lib/jersey-media-jaxb.jar"/>
+        <pathelement location="lib/jersey-server.jar"/>
+        <pathelement location="lib/org.osgi.core-4.2.0.jar"/>
+        <pathelement location="lib/osgi-resource-locator-1.0.1.jar"/>
+        <pathelement location="lib/persistence-api-1.0.jar"/>
+        <pathelement location="lib/validation-api-1.1.0.Final.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="MAS I VSY LE04 HelloREST.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target name="Server (2)">
+        <java classname="Server" failonerror="true" fork="yes">
+            <classpath refid="MAS I VSY LE04 HelloREST.classpath"/>
+        </java>
+    </target>
+    <target name="Server">
+        <java classname="Server" failonerror="true" fork="yes">
+            <classpath refid="MAS I VSY LE04 HelloREST.classpath"/>
+        </java>
+    </target>
+</project>

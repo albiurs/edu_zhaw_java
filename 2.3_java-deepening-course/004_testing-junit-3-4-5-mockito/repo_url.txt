@@ -1,0 +1,1 @@
+https://github.zhaw.ch/bacn/testing-junit-3-4-5.git

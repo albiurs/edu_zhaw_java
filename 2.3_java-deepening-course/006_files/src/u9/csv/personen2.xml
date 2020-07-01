@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Persons xmlns="http://www.zhaw.ch">
+  <Person id="1">
+    <Name>﻿Darcy</Name>
+    <Vorname>Dorothea</Vorname>
+    <Strasse>Distelstrasse</Strasse>
+    <Wohnort>Bern</Wohnort>
+  </Person>
+  <Person id="2">
+    <Name>Eppstein</Name>
+    <Vorname>Ellen</Vorname>
+    <Strasse>Eibenweg</Strasse>
+    <Wohnort>Basel</Wohnort>
+  </Person>
+  <Person id="3">
+    <Name>Fine</Name>
+    <Vorname>Francis</Vorname>
+    <Strasse>Faubourg du Lac</Strasse>
+    <Wohnort>Neuenburg</Wohnort>
+  </Person>
+  <Person id="4">
+    <Name>Gamgee</Name>
+    <Vorname>Goldilocks</Vorname>
+    <Strasse>Goltgasse</Strasse>
+    <Wohnort>Freiburg</Wohnort>
+  </Person>
+  <Person id="5">
+    <Name>Hornblower</Name>
+    <Vorname>Hamfast</Vorname>
+    <Strasse>Helmstrasse</Strasse>
+    <Wohnort>Zürich</Wohnort>
+  </Person>
+  <Person id="6">
+    <Name>Irving</Name>
+    <Vorname>Ian</Vorname>
+    <Strasse>Igelweg</Strasse>
+    <Wohnort>Sankt Gallen</Wohnort>
+  </Person>
+  <Person id="7">
+    <Name>Joyce</Name>
+    <Vorname>James</Vorname>
+    <Strasse>Joggeliweg</Strasse>
+    <Wohnort>Basel</Wohnort>
+  </Person>
+  <Person id="8">
+    <Name>Kafka</Name>
+    <Vorname>Karl</Vorname>
+    <Strasse>Kirschblütenweg</Strasse>
+    <Wohnort>Küttigen</Wohnort>
+  </Person>
+  <Person id="9">
+    <Name>Lovegood</Name>
+    <Vorname>Lobelia</Vorname>
+    <Strasse>Ligusterweg</Strasse>
+    <Wohnort>Leimbach</Wohnort>
+  </Person>
+  <Person id="10">
+    <Name>Montague</Name>
+    <Vorname>Meriadoc</Vorname>
+    <Strasse>Mistelstrasse</Strasse>
+    <Wohnort>Müstair</Wohnort>
+  </Person>
+  <Person id="11">
+    <Name>Nutshell</Name>
+    <Vorname>Nora</Vorname>
+    <Strasse>Niesenweg</Strasse>
+    <Wohnort>Mülenen</Wohnort>
+  </Person>
+  <Person id="12">
+    <Name>Orwell</Name>
+    <Vorname>Olga</Vorname>
+    <Strasse>Obere Matte</Strasse>
+    <Wohnort>Ogoz</Wohnort>
+  </Person>
+  <Person id="13">
+    <Name>Potter</Name>
+    <Vorname>Peregrin</Vorname>
+    <Strasse>Privet Drive</Strasse>
+    <Wohnort>Posieux</Wohnort>
+  </Person>
+  <Person id="14">
+    <Name>Quaglia</Name>
+    <Vorname>Quentin</Vorname>
+    <Strasse>Quellenstrasse</Strasse>
+    <Wohnort>Quinto</Wohnort>
+  </Person>
+  <Person id="15">
+    <Name>Radcliffe</Name>
+    <Vorname>Romeo</Vorname>
+    <Strasse>Rösterei</Strasse>
+    <Wohnort>Rümlang</Wohnort>
+  </Person>
+  <Person id="16">
+    <Name>Stuart</Name>
+    <Vorname>Samwise</Vorname>
+    <Strasse>Sunset Boulevard</Strasse>
+    <Wohnort>Samstagern</Wohnort>
+  </Person>
+  <Person id="17">
+    <Name>Tonks</Name>
+    <Vorname>Theo</Vorname>
+    <Strasse>Im Tobel</Strasse>
+    <Wohnort>Thun</Wohnort>
+  </Person>
+  <Person id="18">
+    <Name>Ulvaeus</Name>
+    <Vorname>Ute</Vorname>
+    <Strasse>Unkrautweg</Strasse>
+    <Wohnort>Unterseen</Wohnort>
+  </Person>
+  <Person id="19">
+    <Name>Vuitton</Name>
+    <Vorname>Victor</Vorname>
+    <Strasse>Veilchenweg</Strasse>
+    <Wohnort>Vorderthal</Wohnort>
+  </Person>
+  <Person id="20">
+    <Name>Weyermann</Name>
+    <Vorname>Wilbur</Vorname>
+    <Strasse>Wisteria Lane</Strasse>
+    <Wohnort>Wynigen</Wohnort>
+  </Person>
+  <Person id="21">
+    <Name>X</Name>
+    <Vorname>Mister</Vorname>
+    <Strasse>Xavierstrasse</Strasse>
+    <Wohnort>Xyger</Wohnort>
+  </Person>
+  <Person id="22">
+    <Name>Yogi</Name>
+    <Vorname>Yvanna</Vorname>
+    <Strasse>Yahoo</Strasse>
+    <Wohnort>Yverdon</Wohnort>
+  </Person>
+  <Person id="23">
+    <Name>Zurfluh</Name>
+    <Vorname>Zoltan</Vorname>
+    <Strasse>Zwischen den Blumen</Strasse>
+    <Wohnort>Zwischenflüh</Wohnort>
+  </Person>
+</Persons>

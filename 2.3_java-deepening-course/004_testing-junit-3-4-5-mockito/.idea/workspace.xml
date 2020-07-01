@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b6e0296-4cc9-4240-9390-47f9f07430c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../004.2_callstack/004.2_callstack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repo_url.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005.1_BeispielCodeUebung1bis4/005_BeispeilCodeÜbung1Bis4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005.1_BeispielCodeUebung1bis4/serialize/auto.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005_serialisierung/005_serialisierung.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/006_SocketServer_TipDesTages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/src/u1/tippdestages/TippDesTagesClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/src/u1/tippdestages/TippDesTagesServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_SocketServer_TipDesTages/src/u2/questionandanswer/AnswerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/006_files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/buch/quizkarte/QuizKarte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/buch/quizkarte/QuizKartenAutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/buch/quizkarte/QuizKartenPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u1/writestringtofile/DateiSchreiben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u1/writestringtofile/datei.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u2/file/MeinFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u3/bufferwriter/DateiSchreibenBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u3/bufferwriter/DateiSchreibenOhneBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u3/bufferwriter/datei.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u4/bufferreader/DateiLesenBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u4/bufferreader/personen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u5/nio/ExplainPathAndFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u5/nio/ReadAndWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u5/nio/WatchDir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u5/nio/nio.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u5/nio/personen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u5/nio/personen2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u5/nio/personen23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u5/nio/personen3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u5/nio/personen4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u6/decisionbutton/AddOperationResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u6/decisionbutton/DecisionButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u6/decisionbutton/DecisionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u6/decisionbutton/FileIOStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u6/decisionbutton/IOStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u6/decisionbutton/ObjectStreamStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u6/decisionbutton/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u7/filecopy/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u7/filecopy/personen kopie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u7/filecopy/personen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u8/filter/CaseChangerFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u8/filter/FilterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u9/csv/CsvMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u9/csv/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u9/csv/PersonCsvConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u9/csv/PersonXmlConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u9/csv/personen.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u9/csv/personen2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../006_files/src/u9/csv/personen2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/007_threads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u0/TwoThreadsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u0/TwoThreadsTestR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u1/MeinRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u1/ThreadTestLauf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u2/MeinRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u2/ThreadTestLauf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u3/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u3/ThreadNaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u4/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u4/ThreadNaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u5/Banking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u5/UnsyncCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u6/SyncCounterObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u7/SyncCounterMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u8/StartStopThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007_threads/src/u9/StopThreadByInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMavenProject_CreateFromArchetype/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMavenProject_CreateFromArchetype/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMavenProject_CreateFromArchetype/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestMavenProject_CreateFromArchetype/TestMavenProject_CreateFromArchetype.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../004_JUnit3x/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../004_JUnit3x/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ShrcFDsSmUGfr5sXW7pFWSvmkl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunManager" selected="JUnit.MoneyChangeTest">
+    <configuration name="Euro5RunnnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="004_testing-junit-3-4-5-mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.zhaw.mas.junit5.x.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.zhaw.mas.junit5.x" />
+      <option name="MAIN_CLASS_NAME" value="ch.zhaw.mas.junit5.x.Euro5RunnnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EuroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="004_testing-junit-3-4-5-mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.zhaw.mas.junit5.x.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.zhaw.mas.junit5.x" />
+      <option name="MAIN_CLASS_NAME" value="ch.zhaw.mas.junit5.x.EuroTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyChangeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="004_testing-junit-3-4-5-mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.zhaw.mas.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.zhaw.mas.mockito" />
+      <option name="MAIN_CLASS_NAME" value="ch.zhaw.mas.mockito.MoneyChangeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MoneyChangeTest" />
+        <item itemvalue="JUnit.EuroTest" />
+        <item itemvalue="JUnit.Euro5RunnnerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b6e0296-4cc9-4240-9390-47f9f07430c9" name="Default Changelist" comment="" />
+      <created>1572026745787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572026745787</updated>
+      <workItem from="1572026750012" duration="743000" />
+      <workItem from="1572029200897" duration="37000" />
+      <workItem from="1572029321349" duration="109000" />
+      <workItem from="1572029443039" duration="22000" />
+      <workItem from="1572029490594" duration="28000" />
+      <workItem from="1572029525944" duration="318000" />
+      <workItem from="1572252540039" duration="13000" />
+      <workItem from="1572270436863" duration="108000" />
+      <workItem from="1572270576868" duration="86000" />
+      <workItem from="1572271719151" duration="126000" />
+      <workItem from="1572625284589" duration="692000" />
+      <workItem from="1574416176345" duration="294000" />
+      <workItem from="1574438729271" duration="125000" />
+      <workItem from="1575023396768" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

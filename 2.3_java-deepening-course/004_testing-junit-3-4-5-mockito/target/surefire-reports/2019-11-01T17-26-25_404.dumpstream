@@ -1,0 +1,12 @@
+# Created at 2019-11-01T17:26:29.540
+Nov 01, 2019 5:26:29 PM org.junit.vintage.engine.discovery.DefensiveAllDefaultPossibilitiesBuilder$DefensiveAnnotatedBuilder buildRunner
+
+# Created at 2019-11-01T17:26:29.694
+WARNING: Ignoring test class using JUnitPlatform runner: ch.zhaw.mas.junit5.x.EuroTest
+
+# Created at 2019-11-01T17:26:29.702
+Nov 01, 2019 5:26:29 PM org.junit.vintage.engine.discovery.DefensiveAllDefaultPossibilitiesBuilder$DefensiveAnnotatedBuilder buildRunner
+
+# Created at 2019-11-01T17:26:29.711
+WARNING: Ignoring test class using JUnitPlatform runner: ch.zhaw.mas.junit5.x.EuroTest
+
