@@ -4,8 +4,8 @@ Instruktionen
 Aufruf Webserver:
 Server:
 MacOS/Linux: java --add-opens java.base/java.lang=ALL-UNNAMED -cp "bin:lib/*" Server
-Windows: java -cp "bin;lib/*"
-oder einfach mit dem Skript server (Windows) bzw. ./server.sh (MacOS, Linux)
+Windows: java --add-opens java.base/java.lang=ALL-UNNAMED -cp "bin;lib/*" Server
+...oder einfach mit dem Skript server (Windows) bzw. ./server.sh (MacOS, Linux)
 
 Beispiel-Aufrufe mit cURL:
 curl -i http://localhost:50000/api/hello

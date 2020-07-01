@@ -2,7 +2,9 @@ Instruktionen
 -------------
 
 Aufruf des Webservers:
-java -cp "bin;lib/*" Server (MacOS, Linux: ":" anstatt ";") oder einfach mit dem Skript server
+MacOS: java --add-opens java.base/java.lang=ALL-UNNAMED -cp "bin:lib/*" Server
+Windows: java --add-opens java.base/java.lang=ALL-UNNAMED -cp "bin;lib/*" Server
+...oder einfach mit dem Skript server
 
 Beispiel-Aufrufe mit cURL:
 curl -i -H "Content-Type: text/plain" -X POST http://localhost:50000/api/messages -d "Message A"
