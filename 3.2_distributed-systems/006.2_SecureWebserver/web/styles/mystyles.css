@@ -1,0 +1,26 @@
+body {
+  font-family:sans-serif;
+  background-color: White;
+  margin-left: 20px;
+}
+
+h1 {
+  color: black;
+}
+
+#title {
+    font-weight: bold;
+}
+
+#author {
+    font-size: small;
+}
+
+footer {
+  font-size: x-small;
+}
+
+.back, .hint {
+  font-size: small;	
+}
+

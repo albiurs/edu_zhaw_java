@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles/mystyles.css">
+  <title>Web Worker Example</title>
+</head>
+<body>
+  <header>
+    <h1>What Can You Do With JavaScript?</h1>
+  </header>
+  <main>
+  <div id="demo">Web workers allow JavaScript code to be executed 
+     <br>separately from the main thread in the background.<br></div><br>  
+  <p>The largest prime number found so far is: <output id="result"></output></p>
+  </main> 
+  <nav>
+     <p class="back"><a href="index.html" onclick="worker.terminate()">Back</a></p>	  
+  </nav>   
+  <script>
+     var worker = new Worker('scripts/worker.js'); // creates a new worker
+     worker.onmessage = function (event) { // function is called, if the worker sends a message
+       document.getElementById('result').textContent = event.data; // shows the found prime number
+     };
+   </script>   
+   <footer>
+   <p>&copy; 2020 ZHAW School of Engineering<p>
+   </footer>
+</body>
+</html>

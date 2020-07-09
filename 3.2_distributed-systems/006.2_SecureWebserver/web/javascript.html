@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles/mystyles.css">
+  <script src="scripts/myscripts.js">
+</script>
+  <title>JavaScript Example</title>
+</head>
+<body>
+  <header>
+    <h1>What Can You Do With JavaScript?</h1>
+  </header>
+  <main>
+    <div id="demo">JavaScript makes HTML pages more dynamic and interactive.<br></div><br>  
+    <button  id="btn" type="button"
+      onclick="showTime()">
+      Click me!</button>
+  </main>	  
+  <nav>
+    <p class="back"><a href="index.html">Back</a></p>
+  </nav>  
+  <footer>
+   <p>&copy; 2020 ZHAW School of Engineering<p>
+  </footer> 
+  <script>
+    var myTimer; 
+	function showTime() {
+	  myTimer = setInterval(function(){ document.getElementById("demo").innerHTML 
+	    = new Date().toLocaleTimeString(); }, 1000);
+      var btn = document.getElementById("btn");
+	  btn.innerHTML="Stop time";
+	  btn.onclick=function() { clearInterval(myTimer); };
+    }
+   </script>
+</body>
+</html>
