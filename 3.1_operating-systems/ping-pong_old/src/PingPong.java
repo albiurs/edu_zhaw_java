@@ -1,4 +1,4 @@
-package pingPong;
+package src;
 
 class myThread extends Thread {
 	private String message;
